@@ -19,4 +19,5 @@ jobs:
 
       - name: run a multi-line script
         run: echo This is two line
-        run: echo This is the second line
+          echo This is the second line
+
