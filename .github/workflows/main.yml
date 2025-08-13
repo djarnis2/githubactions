@@ -18,7 +18,6 @@ jobs:
         run: echo HelloWorld!
 
       - name: run a multi-line script
-      - run: 
-          echo This is two line
+      - run: echo This is two line
           echo This is the second line
 
